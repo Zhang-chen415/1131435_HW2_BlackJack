@@ -41,18 +41,18 @@
             // flpDealer
             // 
             this.flpDealer.BackColor = System.Drawing.Color.Green;
-            this.flpDealer.Location = new System.Drawing.Point(0, -2);
+            this.flpDealer.Location = new System.Drawing.Point(126, -2);
             this.flpDealer.Name = "flpDealer";
-            this.flpDealer.Size = new System.Drawing.Size(786, 129);
+            this.flpDealer.Size = new System.Drawing.Size(545, 129);
             this.flpDealer.TabIndex = 0;
             this.flpDealer.WrapContents = false;
             // 
             // flpPlayer
             // 
             this.flpPlayer.BackColor = System.Drawing.Color.Green;
-            this.flpPlayer.Location = new System.Drawing.Point(0, 350);
+            this.flpPlayer.Location = new System.Drawing.Point(126, 350);
             this.flpPlayer.Name = "flpPlayer";
-            this.flpPlayer.Size = new System.Drawing.Size(786, 125);
+            this.flpPlayer.Size = new System.Drawing.Size(545, 125);
             this.flpPlayer.TabIndex = 1;
             this.flpPlayer.WrapContents = false;
             // 
